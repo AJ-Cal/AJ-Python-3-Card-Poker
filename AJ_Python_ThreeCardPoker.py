@@ -6,7 +6,6 @@
 # 4) Distribute three cards randomly
 
 
-# Use the concept of OOP (Inheritance, Abstraction, Polymorphism, and Encapsulation)
 import random
 cards = []
 class Card:
